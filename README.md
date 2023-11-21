@@ -3,7 +3,7 @@ Proyecto Final para Argentina Programa 4.0 - U.T.N.
 
 ## Comenzando 🚀
 
-_Este proyecto se realizó con fines académicos para ser presentado como final del Argentina Programa 4.0, se trata de una aplicación básica de Listas de Tarea_
+_Este proyecto se realizó con fines académicos para ser presentado como final del Argentina Programa 4.0, se trata de una aplicación básica de Listas de Tarea. Puedes ver la app en funcionamiento en [Netlify](https://task-list-nicolas.netlify.app/)_
 
 ### Instalación 🔧
 
